@@ -1,0 +1,1 @@
+print("Zero can't be divided by anything")
